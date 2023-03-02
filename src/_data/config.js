@@ -1,43 +1,43 @@
 // Config for the entire site.
 module.exports = {
   // Site title.
-  title: "Pankaj Yadav",
+  title: "Saurabh Abbi",
 
   // Default description for pages. Provide "description" in the front matter of
   // a page to override this.
-  description: "Contact information for Pankaj Yadav.",
+  description: "Contact information for Saurabh Abbi.",
 
   // Site URLs.
-  baseUrl: "https://www.pankajyadav.me/", // No slash at the end.
-  shortBaseUrl: "www.pankajyadav.me", // Same as baseUrl but without http or https.
+  baseUrl: "https://www.tmtalentmanagement.com", // No slash at the end.
+  shortBaseUrl: "www.tmtalentmanagement.com", // Same as baseUrl but without http or https.
 
   // Your name.
-  name: "Pankaj Yadav",
+  name: "Saurabh Abbi",
 
   // Profile picture on home page. Set to null to leave out.
   profilePic: {
-    best: "https://d35hr0os3yc7ki.cloudfront.net/ContactCard_1000x1000.jpeg",
-    small: "https://d35hr0os3yc7ki.cloudfront.net/ContactCard_1000x1000.jpeg",
+    best: "https://d35hr0os3yc7ki.cloudfront.net/Abbi/Saurabh_photo.jpeg",
+    small: "https://d35hr0os3yc7ki.cloudfront.net/Abbi/Saurabh_photo.jpeg",
   },
 
   // Name pronunciation. Set to null to leave out.
-  pronunciation: "https://d35hr0os3yc7ki.cloudfront.net/PankajYadavSlow.mp3",
+  pronunciation: "https://d35hr0os3yc7ki.cloudfront.net/Abbi/Saurabh_audio.mp3",
 
   // Tagline that shows up below the profile picture on the home page and below
   // the name on the business card. Set to null to leave out.
-  tagline: "Tech Evangelist and CEO at Tagglabs",
+  tagline: "CEO at TM Ventures Pvt. Ltd.",
 
   // Path to Open Graph image. Change this URL whenever the image changes so
   // that sites like FB change their preview. Set to null to leave out.
   openGraph: {
     absolute: true,
-    url: "https://d35hr0os3yc7ki.cloudfront.net/ContactCard_1000x1000.jpeg",
+    url: "https://d35hr0os3yc7ki.cloudfront.net/Abbi/Saurabh_photo.jpeg",
   },
 
   // Path to Twitter preview image. Set to null to leave out.
   twitterPreview: {
     absolute: true,
-    url: "https://d35hr0os3yc7ki.cloudfront.net/ContactCard_1000x1000.jpeg",
+    url: "https://d35hr0os3yc7ki.cloudfront.net/Abbi/Saurabh_photo.jpeg",
   },
 
   // Links to your other websites.
@@ -51,49 +51,49 @@ module.exports = {
   links: [
     {
       name: "Website",
-      desc: "pankajyadav.me",
-      url: "https://www.pankajyadav.me",
+      desc: "tmtalentmanagement.com",
+      url: "https://www.tmtalentmanagement.com",
       fa: "fas fa-globe-americas",
       textColor: "text-website",
     },
     {
       name: "Work",
-      desc: "pankaj@tagglabs.in",
-      url: "mailto:pankaj@tagglabs.in",
+      desc: "abbi@tmventures.in",
+      url: "mailto:abbi@tmventures.in",
       fa: "fas fa-envelope",
       textColor: "text-gray-600",
     },
      {
       name: "Personal",
-      desc: "mail@pankajyadav.me",
-      url: "mailto:mail@pankajyadav.me",
+      desc: "saurabh.abbi@gmail.com",
+      url: "mailto:saurabh.abbi@gmail.com",
       fa: "fas fa-envelope",
       textColor: "text-gray-600",
     },
     {
       name: "Twitter",
-      desc: "@psy_techie",
-      url: "https://twitter.com/psy_techie",
+      desc: "@Saurabh_abbi",
+      url: "https://twitter.com/Saurabh_abbi",
       fa: "fab fa-twitter",
       textColor: "text-twitter",
     },
     {
       name: "LinkedIn",
-      desc: "@pankajsinghyadav",
-      url: "https://www.linkedin.com/in/pankajsinghyadav/",
+      desc: "@Saurabh Abbi",
+      url: "https://www.linkedin.com/in/saurabh-abbi-15170519/",
       fa: "fab fa-linkedin",
       textColor: "text-linkedin",
     },
        {
       name: "Instagram",
-      desc: "@pankajyadav.eth",
-      url: "https://www.instagram.com/pankajyadav.eth/",
+      desc: "@saurabhabbi",
+      url: "https://www.instagram.com/saurabhabbi/",
       fa: "fab fa-instagram",
       textColor: "text-instagram",
     },
     {
       name: "Save Contact",
-      url: "https://d35hr0os3yc7ki.cloudfront.net/pankajcontact.vcf",
+      url: "https://d35hr0os3yc7ki.cloudfront.net/Abbi/Saurabh_contact.vcf",
       fa: "fas fa-file-alt",
       textColor: "text-yellow-500",
     },
