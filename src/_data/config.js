@@ -25,7 +25,7 @@ module.exports = {
 
   // Tagline that shows up below the profile picture on the home page and below
   // the name on the business card. Set to null to leave out.
-  tagline: "CEO at TM Ventures Pvt. Ltd.",
+  tagline: "CEO and Partner at TM Ventures Pvt. Ltd.",
 
   // Path to Open Graph image. Change this URL whenever the image changes so
   // that sites like FB change their preview. Set to null to leave out.
