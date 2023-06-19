@@ -1,43 +1,43 @@
 // Config for the entire site.
 module.exports = {
   // Site title.
-  title: "Saurabh Abbi",
+  title: "Jigar Sheth",
 
   // Default description for pages. Provide "description" in the front matter of
   // a page to override this.
-  description: "Contact information for Saurabh Abbi.",
+  description: "Contact information for Jigar Sheth.",
 
   // Site URLs.
-  baseUrl: "https://www.tmtalentmanagement.com", // No slash at the end.
-  shortBaseUrl: "www.tmtalentmanagement.com", // Same as baseUrl but without http or https.
+  baseUrl: "https://nodwingaming.com/", // No slash at the end.
+  shortBaseUrl: "https://nodwingaming.com/", // Same as baseUrl but without http or https.
 
   // Your name.
-  name: "Saurabh Abbi",
+  name: "Jigar Sheth",
 
   // Profile picture on home page. Set to null to leave out.
   profilePic: {
-    best: "https://d35hr0os3yc7ki.cloudfront.net/Abbi/Saurabh_photo.jpeg",
-    small: "https://d35hr0os3yc7ki.cloudfront.net/Abbi/Saurabh_photo.jpeg",
+    best: "https://d35hr0os3yc7ki.cloudfront.net/Jigar/Jigar.jpeg",
+    small: "https://d35hr0os3yc7ki.cloudfront.net/Jigar/Jigar.jpeg",
   },
 
   // Name pronunciation. Set to null to leave out.
-  pronunciation: "https://d35hr0os3yc7ki.cloudfront.net/Abbi/Saurabh_audio.mp3",
+  pronunciation: "https://d35hr0os3yc7ki.cloudfront.net/Jigar/Jigar.mp3",
 
   // Tagline that shows up below the profile picture on the home page and below
   // the name on the business card. Set to null to leave out.
-  tagline: "CEO and Partner at TM Ventures Pvt. Ltd.",
+  tagline: "Chief Revenue Officer at Nodwin Gaming",
 
   // Path to Open Graph image. Change this URL whenever the image changes so
   // that sites like FB change their preview. Set to null to leave out.
   openGraph: {
     absolute: true,
-    url: "https://d35hr0os3yc7ki.cloudfront.net/Abbi/Saurabh_photo.jpeg",
+    url: "https://d35hr0os3yc7ki.cloudfront.net/Jigar/Jigar.jpeg",
   },
 
   // Path to Twitter preview image. Set to null to leave out.
   twitterPreview: {
     absolute: true,
-    url: "https://d35hr0os3yc7ki.cloudfront.net/Abbi/Saurabh_photo.jpeg",
+    url: "https://d35hr0os3yc7ki.cloudfront.net/Jigar/Jigar.jpeg",
   },
 
   // Links to your other websites.
@@ -51,49 +51,35 @@ module.exports = {
   links: [
     {
       name: "Website",
-      desc: "tmtalentmanagement.com",
-      url: "https://www.tmtalentmanagement.com",
+      desc: "nodwingaming.com",
+      url: "https://nodwingaming.com/",
       fa: "fas fa-globe-americas",
       textColor: "text-website",
     },
     {
       name: "Work",
-      desc: "abbi@tmventures.in",
-      url: "mailto:abbi@tmventures.in",
+      desc: "jigar.sheth@nodwin.com",
+      url: "mailto:jigar.sheth@nodwin.com",
       fa: "fas fa-envelope",
       textColor: "text-gray-600",
     },
      {
       name: "Personal",
-      desc: "saurabh.abbi@gmail.com",
-      url: "mailto:saurabh.abbi@gmail.com",
+      desc: "jigar.sheth1@gmail.com",
+      url: "mailto:jigar.sheth1@gmail.com",
       fa: "fas fa-envelope",
       textColor: "text-gray-600",
     },
     {
-      name: "Twitter",
-      desc: "@Saurabh_abbi",
-      url: "https://twitter.com/Saurabh_abbi",
-      fa: "fab fa-twitter",
-      textColor: "text-twitter",
-    },
-    {
       name: "LinkedIn",
-      desc: "@Saurabh Abbi",
-      url: "https://www.linkedin.com/in/saurabh-abbi-15170519/",
+      desc: "@Jigar Sheth",
+      url: "https://www.linkedin.com/in/jigarsheth1/",
       fa: "fab fa-linkedin",
       textColor: "text-linkedin",
     },
-       {
-      name: "Instagram",
-      desc: "@saurabhabbi",
-      url: "https://www.instagram.com/saurabhabbi/",
-      fa: "fab fa-instagram",
-      textColor: "text-instagram",
-    },
     {
       name: "Save Contact",
-      url: "https://d35hr0os3yc7ki.cloudfront.net/Abbi/Saurabh_contact.vcf",
+      url: "https://d35hr0os3yc7ki.cloudfront.net/Jigar/Jigarcontact.vcf",
       fa: "fas fa-file-alt",
       textColor: "text-yellow-500",
     },
